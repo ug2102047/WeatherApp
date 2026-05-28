@@ -21,7 +21,7 @@ function updateWeatherIcon(condition) {
     } else if (condition === "Mist") {
         weatherIcon.src = "weather-app-img/images/mist.png";
     }
-}
+} 
 
 async function checkWeather(city = "bangalore") {
     try {
