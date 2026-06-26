@@ -2,7 +2,7 @@
 
 A simple weather app built with HTML, CSS, and JavaScript. It fetches live weather data from the OpenWeatherMap API and updates the UI with temperature, humidity, wind speed, and weather condition icons.
 
-## Features
+## Features 
 
 - Search weather by city name
 - Live API data from OpenWeatherMap
