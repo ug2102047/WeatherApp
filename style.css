@@ -1,6 +1,6 @@
 *{ 
     margin: 0;
-    padding: 0; 
+    padding: 0;  
     front-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
@@ -18,7 +18,7 @@ body{
     text-align: center;
 }
 .search{
-    width:100%;
+    width:100%; 
     display: flex;
     align-items: center;
     justify-content: space-between;
